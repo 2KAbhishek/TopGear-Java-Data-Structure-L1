@@ -25,11 +25,6 @@
 
 <h2>Short sweet headline with 🎇🎉</h2>
 
-<figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/TopGear-Java-Data-Structure-L1/master/images/screenshot.jpg" alt="TopGear-Java-Data-Structure-L1 Demo" style="width:100%">
-  <figcaption>TopGear-Java-Data-Structure-L1 Screenshot</figcaption>
-</figure>
-
 </div>
 
 ## Inspiration
