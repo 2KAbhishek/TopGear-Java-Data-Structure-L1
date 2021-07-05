@@ -33,9 +33,9 @@ Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of `jdk`
 
-## Installing TopGear-Java-Data-Structure-L1
+## Getting TopGear-Java-Data-Structure-L1
 
-To install TopGear-Java-Data-Structure-L1, follow these steps:
+To get TopGear-Java-Data-Structure-L1, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/TopGear-Java-Data-Structure-L1
