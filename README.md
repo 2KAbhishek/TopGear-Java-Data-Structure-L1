@@ -51,7 +51,7 @@ javac Code.java # Compile
 java Code # Execute
 ```
 
-Hit the :star: button if you found this useful.
+Hit the ⭐ button if you found this useful.
 
 ## More Info
 
