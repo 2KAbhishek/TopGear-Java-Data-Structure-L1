@@ -23,11 +23,9 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>Solutions for Java-Data-Strucutres-L1 ☕🧮</h2>
+<h2>Solutions for Java-Data-Structures-L1 ☕🧮</h2>
 
 </div>
-
-Solutions for TopGear-Java-Data-Strucutres-L1 problems.
 
 ## Prerequisites
 
